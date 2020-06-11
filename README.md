@@ -9,8 +9,9 @@ Our notebooks were divided based on the steps in the project:
 - Last, we did modeling and evaluation in “modeling.ipynb”. 
 
 Datasets:
-vehicles.csv is the original Craigslist dataset downloaded from Kaggle. 
-cars4.csv is the merged dataset after data processing.
-cars ml.csv is the final dataset which is ready for machine learning. 
-edmunds.zip is the original Edmunds dataset downloaded from Kaggle.
-edmunds review.csv is the processed Edmunds dataset. 
+
+- vehicles.csv is the original Craigslist dataset downloaded from Kaggle. 
+- cars4.csv is the merged dataset after data processing.
+- cars ml.csv is the final dataset which is ready for machine learning. 
+- edmunds.zip is the original Edmunds dataset downloaded from Kaggle.
+- edmunds review.csv is the processed Edmunds dataset. 
